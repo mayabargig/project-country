@@ -1,0 +1,17 @@
+h1 {
+    border : 5px solid #000
+}
+video[controls] {
+    width: 400px;
+    height: 220px;
+}
+html {
+    background-color: rgb(141, 189, 252);
+    text-align: center;
+
+}
+
+source {
+    width: 200;
+    height: 120;
+}

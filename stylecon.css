@@ -1,0 +1,39 @@
+html {
+    background-color: rgb(141, 189, 252);
+    text-align: center;
+}
+h1 { 
+    border-radius: 3px;
+}
+
+form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 6px solid #000;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+textarea { 
+    width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      margin-bottom: 10px;
+}
+textarea {
+        height: 100px;
+
+}
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #45a049;
+  }
